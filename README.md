@@ -1,3 +1,4 @@
+LIVE APPLICATION: https://github.com/WILLY070/Safecity.git
 # MERN Stack Capstone Project
 
 This assignment focuses on designing, developing, and deploying a comprehensive full-stack MERN application that showcases all the skills you've learned throughout the course.
