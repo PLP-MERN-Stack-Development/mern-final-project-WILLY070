@@ -1,5 +1,9 @@
 LIVE APPLICATION: https://safecity-beige.vercel.app/
+
+
 SCREENSHOT: https://github.com/PLP-MERN-Stack-Development/mern-final-project-WILLY070/blob/main/image.png
+
+VIDEO DEMO + PITCH DECK: https://youtu.be/gpzzg0la8A8
 
 
 Safe City - Incident Reporting System
